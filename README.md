@@ -5,3 +5,6 @@
 ### I will review them when I feel like it.
 
 #### Thank you everyone
+
+##### you can contribute anything from a text file, or even changing this readme.
+###### *if its like a whole project, I'll have to think about it*
